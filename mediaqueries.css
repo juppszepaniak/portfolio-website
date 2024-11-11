@@ -21,10 +21,10 @@
     #profile, .section-container {
         display: block;
     }
-    #.arrow {
+    .arrow {
         display: none;
     }
-    section, . .section-container {
+    section, .section-container {
         height: fit-content;
     }
     section {
